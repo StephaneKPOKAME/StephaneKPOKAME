@@ -1,16 +1,19 @@
-## Hi there 👋
+# Stéphane Kpokame
 
-<!--
-**StephaneKPOKAME/StephaneKPOKAME** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Étudiant en L3 Informatique à l'Université Marie et Louis Pasteur (Montbéliard). Je conçois des solutions numériques de bout en bout : applications web, interfaces et visualisations 3D.
 
-Here are some ideas to get you started:
+**En recherche d'un stage de 12 semaines à partir du 8 mars 2027.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+
+- **[S'accorder](https://github.com/StephaneKPOKAME/saccorder)** : application collaborative qui aide les équipes à définir leurs règles de fonctionnement.
+- **[Échangeur du carrefour IITA](https://github.com/StephaneKPOKAME/carrefour-iita-3d)** : projet d'urbanisme au Bénin, de l'étude terrain à une maquette 3D explorable en ligne.
+- **[Portfolio](https://github.com/StephaneKPOKAME/stephane-portfolio)** : site bilingue présentant mes projets, avec une page détaillée par projet.
+
+## Compétences
+
+Développement web (front-end et back-end) · Bases de données · Conception d'interfaces · Visualisation 3D
+
+## Contact
+
+[Portfolio](https://stephane-kpokame.vercel.app) · skpokame@gmail.com
